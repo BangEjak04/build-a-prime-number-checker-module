@@ -1,0 +1,25 @@
+{
+  "name": "build-a-prime-number-checker-module",
+  "version": "1.0.0",
+  "description": "freeCodeCamp Submission (Build a Prime Number Checker Module)",
+  "keywords": [
+    "prime",
+    "number",
+    "checker"
+  ],
+  "homepage": "https://github.com/BangEjak04/build-a-prime-number-checker-module#readme",
+  "bugs": {
+    "url": "https://github.com/BangEjak04/build-a-prime-number-checker-module/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BangEjak04/build-a-prime-number-checker-module.git"
+  },
+  "license": "MIT",
+  "author": "bangejak04",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.test.js"
+  }
+}
